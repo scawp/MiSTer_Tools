@@ -5,3 +5,5 @@ Converts a folder of zipped cue/bin files into chd. place file into folder conta
 USE AT OWN RISK!
 
 Requires chdman, run `sudo dnf install chdman` if on a Fedora like system (eg Nobora) or `apt-get` on Debian etc.
+
+NOTE: Run on PC not on MiSTer.
